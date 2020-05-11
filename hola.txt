@@ -1,0 +1,1 @@
+acabamos de crear un fichero hola.txt
