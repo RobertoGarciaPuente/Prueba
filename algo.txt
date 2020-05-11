@@ -1,1 +1,4 @@
 hemos creado un fichero nuevo algo.txt
+
+Añadimos contenido desde otro git
+
